@@ -2,4 +2,4 @@
 ## Hey there 👋🏻!!
 #### I love to do some Backend engineering and build algorihtms. Open to collabrate with any Frontend dev to build some amazing projects!
 
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+![Alt text]([path/to/image.jpg](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
