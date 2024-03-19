@@ -1,6 +1,8 @@
 ![image_1](https://github.com/nothatkishore/nothatkishore/assets/151643054/0b4ccd32-64a1-4098-b150-601adc90cae9)
 ## Hey there 👋🏻!!
-#### I love to do some Backend engineering and practice algorihtms. Open to collabrate with Frontend devs to build something AMAZING!
+
+I am a Tech Enthusiast, currently practicing Backend Engineering and Algorithms. Open to collabrate with Frontend devs or startups to build something Amazing!!
+Feel free to ping if you have any GREAT ideas.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
