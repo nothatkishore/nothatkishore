@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/2wfhKqo824YAAAAC/batman.gif" alt="Batman GIF">
+  <h2>Hello, people 🦇</h2>
+  <h4>I am the Developer crafting web and mobile applications you'll love.</h4>
 </div>
-
-## Hello, people! 🦇
-
-I am the Developer crafting web and mobile applications you'll love.
 
 ### DevStacks i use
 
@@ -27,4 +25,3 @@ I am the Developer crafting web and mobile applications you'll love.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
-
