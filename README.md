@@ -36,5 +36,5 @@ Feel free to reach out if you share the same passion for technology and innovati
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/images/0b4ccd32-64a1-4098-b150-601adc90cae9/tenor.gif" alt="Batman Logo" width="100">
+  <img src="https://media.tenor.com/images/0b4ccd32-64a1-4098-b150-601adc90cae9/tenor.gif" alt="Batman Logo" width="100">
 </div>
