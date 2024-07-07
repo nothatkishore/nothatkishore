@@ -1,4 +1,6 @@
-![Batman GIF](https://media1.tenor.com/m/2wfhKqo824YAAAAC/batman.gif)
+<div style="text-align: center;">
+  <img src="https://media1.tenor.com/m/2wfhKqo824YAAAAC/batman.gif" alt="Batman GIF">
+</div>
 ## Hello there 👋🏻!!
 
 I develop web and mobile applications you love.
