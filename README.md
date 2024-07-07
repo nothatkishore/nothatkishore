@@ -4,9 +4,9 @@
 
 ## Hello, people! 🦇
 
-I am the Dark Developer crafting web and mobile applications you'll love.
+I am the Developer crafting web and mobile applications you'll love.
 
-### My DevStacks Utility Belt
+### DevStacks i use
 
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -28,13 +28,3 @@ I am the Dark Developer crafting web and mobile applications you'll love.
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </div>
 
-
-### Connect with Me
-
-Feel free to reach out if you share the same passion for technology and innovation. Together, we can make the digital world a better place.
-
----
-
-<div align="center">
-  <img src="https://media.tenor.com/images/0b4ccd32-64a1-4098-b150-601adc90cae9/tenor.gif" alt="Batman Logo" width="100">
-</div>
