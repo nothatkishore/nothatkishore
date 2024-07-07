@@ -1,9 +1,9 @@
-![image_1](https://github.com/nothatkishore/nothatkishore/assets/151643054/0b4ccd32-64a1-4098-b150-601adc90cae9)
-## Hey there 👋🏻!!
+![image_1]([https://github.com/nothatkishore/nothatkishore/assets/151643054/0b4ccd32-64a1-4098-b150-601adc90cae9](https://media1.tenor.com/m/2wfhKqo824YAAAAC/batman.gif))
+## Hello there 👋🏻!!
 
-I am a Tech Enthusiast, currently converting ideas into code and designing algorithms.
+I develop web and mobile applications you love.
 
-### Tech Stacks i learn, use and practice
+### DevStacks i use
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,8 +17,8 @@ I am a Tech Enthusiast, currently converting ideas into code and designing algor
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
